@@ -1039,8 +1039,7 @@ body.fullscreenbgimage #main>section#home:after {
 
 .leftimagepicture {
   position: fixed;
-  height: 500px;
-  width:500px;
+  max-wwidth:300px;
   border-radius: 50%;
   left: calc(50vw - 360px);
   top: calc(50vh - 160px);
