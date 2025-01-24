@@ -2947,5 +2947,7 @@ ul.social-intro li a:hover i {
   }
 }
 .leftimagepicture{
-	border-radius: 50%; !Important
+	height: 500px;
+	width: 500px;
+	border-radius: 0; !important
 }
